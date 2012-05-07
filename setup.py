@@ -17,7 +17,7 @@
 NAME = 'ZenPacks.community.VMwareEsx'
 VERSION = '2.2.4'
 AUTHOR = 'Wouter D\'Haeseleer'
-LICENSE = ''
+LICENSE = "GPLv2"
 NAMESPACE_PACKAGES = ['ZenPacks', 'ZenPacks.community']
 PACKAGES = ['ZenPacks', 'ZenPacks.community', 'ZenPacks.community.VMwareEsx']
 INSTALL_REQUIRES = []
